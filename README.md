@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate software engineering student at **1337**. I have a strong background in **C*, and I'm always eager to explore new technologies. My journey into coding started from a love for problem-solving and creating efficient solutions.
+I'm a passionate software engineering student at **1337**. I have a strong background in **C**, and I'm always eager to explore new technologies. My journey into coding started from a love for problem-solving and creating efficient solutions.
 
 ## 🎯 Interests
 - 🖥️ Low-level programming (C, Assembly, Shell Scripting)
@@ -26,6 +26,6 @@ I'm a passionate software engineering student at **1337**. I have a strong backg
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aymane-agharbi/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aymane-agharbi) 
-[![Intra 1337](https://img.shields.io/badge/1337-Intra-000000?style=flat-square&logo=42&logoColor=white)]((https://profile.intra.42.fr/))
+[![Intra 1337](https://img.shields.io/badge/1337-Intra-000000?style=flat-square&logo=42&logoColor=white)](https://profile.intra.42.fr/users/aagharbi)
 
 Let's build something amazing together! 🚀
