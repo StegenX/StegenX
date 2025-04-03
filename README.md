@@ -24,7 +24,7 @@ I'm a passionate software engineering student at **1337**. I have a strong backg
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/aymane-agharbi/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/aymane-agharbi-7b0a351a0)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aymane-agharbi) 
 [![Intra 1337](https://img.shields.io/badge/1337-Intra-000000?style=flat-square&logo=42&logoColor=white)](https://profile.intra.42.fr/users/aagharbi)
 
